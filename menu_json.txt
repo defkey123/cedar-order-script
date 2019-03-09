@@ -1,0 +1,35 @@
+
+
+{
+  "Items" : [
+    {
+      "Name": ["BURGER", "BUGER"],
+      "sizes": ["o"],
+      "prices":[12.55],
+      "code":"001",
+      "custom":["N"]
+    },
+        {
+      "Name": ["NAME2", "NAM2x", "NAM2Ey"],
+      "sizes": ["s","m","l"],
+      "prices":[1.56,2.55,3.99],
+      "code":100,
+      "custom":["N"]
+    },
+        {
+      "Name": ["ICED TEA", "OCED TEA", "ICED SEA"],
+      "sizes": ["s","m","l"],
+      "prices":[1.98,2.79,3.25],
+      "code":100,
+      "custom":["N"]
+    },
+        {
+      "Name": ["PANINI", "PANANINI", "PANININI"],
+      "sizes": ["o"],
+      "prices":[10.4],
+      "code":100,
+      "custom":[["TOMATOES",0.25],["HAM",1.0],["CHEESE",0.9]]
+    }
+
+    ]
+  }
