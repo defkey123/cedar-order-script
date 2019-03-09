@@ -90,7 +90,7 @@ while True:
                                for vvv in zzn:
                                    score2+=1
                                scores2.append([foodx,score2,yy])
-extraS = 0
+                           extraS = 0
                            extraIndex = 0
                            ExtraName = ""
                            for zze in range(len(scores2)):
